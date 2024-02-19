@@ -1,3 +1,18 @@
+# Goal
+Create a coding example which demonstrates that coding can be simple and intuitive to read & write. Coding is something anyone can do!
+
+### Intended Audience
+Middle School Math Students (12-15 year old)
+
+Math Level: Pre-Algebra
+
+Programming Background: None
+
+Criteria
+- Intuitive enough for a non-programmer to read and be able to understand what the code does
+- Fun (a game similar to one of their in-class math exercises)
+
+
 # Objective
 The goal of the frog game is to swap the X and O pieces completely. The only way to move a piece is by hopping over another piece or by moving into an empty space next to it.
 
